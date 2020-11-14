@@ -1,0 +1,42 @@
+
+#main{
+    width: 100%;
+    height: 500px;
+    color:#fff;
+    background-color: black;
+    padding: 10px;
+}
+#first{
+    color: aqua;
+    width: 40%;
+    height: 30%;
+    background-color: crimson;
+    float: left;
+    margin: 10px;
+}
+
+#second{
+    color: rgb(153, 248, 1);
+    width: 40%;
+    height: 30%;
+    background-color: blue;
+    float: left;
+    margin: 10px;
+}
+
+#third{
+    color: rgb(0, 17, 248);
+    width: 40%;
+    height: 30%;
+    background-color: rgb(8, 252, 0);
+    float: left;
+   margin: 10px;
+}
+
+#fourth{
+    width: 40%;
+    height: 30%;
+    background-color:#fff;
+    float: left;
+    margin: 10px;
+}
